@@ -1,0 +1,21 @@
+nav{
+  background-color: rgba(163, 163, 199, 0.26);
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+
+  display: flex;
+  justify-content: space-around;
+
+}
+a{
+  text-decoration: none;
+  color: blueviolet;
+  font-size:40px;
+}
+a:hover{
+  color: black;
+  background-color: aquamarine;
+
+  
+}
